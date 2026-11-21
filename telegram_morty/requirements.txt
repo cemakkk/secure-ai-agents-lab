@@ -1,0 +1,7 @@
+# Библиотеки для обеих версий; версии разрешаются совместимыми пакетами pip.
+python-dotenv
+pyTelegramBotAPI
+langchain-core
+langchain-openai
+langchain-chroma
+chromadb
